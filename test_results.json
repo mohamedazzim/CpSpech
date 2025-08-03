@@ -1,0 +1,547 @@
+{
+  "overall_accuracy": 0.8125,
+  "total_files": 64,
+  "correct_predictions": 52,
+  "per_class_results": {
+    "Amaravathi": {
+      "correct": 4,
+      "total": 4,
+      "predictions": [
+        "Amaravathi",
+        "Amaravathi",
+        "Amaravathi",
+        "Amaravathi"
+      ]
+    },
+    "Amma Phone Vandhuruuukuu": {
+      "correct": 3,
+      "total": 4,
+      "predictions": [
+        "Amma Phone Vandhuruuukuu",
+        "Matthara Thaangah",
+        "Amma Phone Vandhuruuukuu",
+        "Amma Phone Vandhuruuukuu"
+      ]
+    },
+    "Amma va koopdungah": {
+      "correct": 0,
+      "total": 3,
+      "predictions": [
+        "Amaravathi",
+        "Bathroom Varudhu",
+        "Matthara Thaangah"
+      ]
+    },
+    "Bathroom Varudhu": {
+      "correct": 4,
+      "total": 5,
+      "predictions": [
+        "Bathroom Varudhu",
+        "Bathroom Varudhu",
+        "Bathroom Varudhu",
+        "Thookam Varudhuu",
+        "Bathroom Varudhu"
+      ]
+    },
+    "Computer la okkaravaingah": {
+      "correct": 5,
+      "total": 5,
+      "predictions": [
+        "Computer la okkaravaingah",
+        "Computer la okkaravaingah",
+        "Computer la okkaravaingah",
+        "Computer la okkaravaingah",
+        "Computer la okkaravaingah"
+      ]
+    },
+    "Hearing Aid Pottuvidungah": {
+      "correct": 4,
+      "total": 5,
+      "predictions": [
+        "Hearing Aid Pottuvidungah",
+        "Hearing Aid Pottuvidungah",
+        "Hearing Aid Pottuvidungah",
+        "PowerWheel Chair la Veloya poghanu",
+        "Hearing Aid Pottuvidungah"
+      ]
+    },
+    "Kai ku Spint Pottu vidungah": {
+      "correct": 5,
+      "total": 5,
+      "predictions": [
+        "Kai ku Spint Pottu vidungah",
+        "Kai ku Spint Pottu vidungah",
+        "Kai ku Spint Pottu vidungah",
+        "Kai ku Spint Pottu vidungah",
+        "Kai ku Spint Pottu vidungah"
+      ]
+    },
+    "Kai valikkudhu": {
+      "correct": 4,
+      "total": 4,
+      "predictions": [
+        "Kai valikkudhu",
+        "Kai valikkudhu",
+        "Kai valikkudhu",
+        "Kai valikkudhu"
+      ]
+    },
+    "Kannadi Pottu vidungah": {
+      "correct": 0,
+      "total": 3,
+      "predictions": [
+        "Amma Phone Vandhuruuukuu",
+        "Computer la okkaravaingah",
+        "Computer la okkaravaingah"
+      ]
+    },
+    "Matthara Thaangah": {
+      "correct": 5,
+      "total": 5,
+      "predictions": [
+        "Matthara Thaangah",
+        "Matthara Thaangah",
+        "Matthara Thaangah",
+        "Matthara Thaangah",
+        "Matthara Thaangah"
+      ]
+    },
+    "Pasikkudhu": {
+      "correct": 0,
+      "total": 3,
+      "predictions": [
+        "Thookam Varudhuu",
+        "Thookam Varudhuu",
+        "Thookam Varudhuu"
+      ]
+    },
+    "PowerWheel Chair la Veloya poghanu": {
+      "correct": 5,
+      "total": 5,
+      "predictions": [
+        "PowerWheel Chair la Veloya poghanu",
+        "PowerWheel Chair la Veloya poghanu",
+        "PowerWheel Chair la Veloya poghanu",
+        "PowerWheel Chair la Veloya poghanu",
+        "PowerWheel Chair la Veloya poghanu"
+      ]
+    },
+    "Thanni Venuuu": {
+      "correct": 5,
+      "total": 5,
+      "predictions": [
+        "Thanni Venuuu",
+        "Thanni Venuuu",
+        "Thanni Venuuu",
+        "Thanni Venuuu",
+        "Thanni Venuuu"
+      ]
+    },
+    "Thiruppi Padukka Vaingah": {
+      "correct": 4,
+      "total": 4,
+      "predictions": [
+        "Thiruppi Padukka Vaingah",
+        "Thiruppi Padukka Vaingah",
+        "Thiruppi Padukka Vaingah",
+        "Thiruppi Padukka Vaingah"
+      ]
+    },
+    "Thookam Varudhuu": {
+      "correct": 4,
+      "total": 4,
+      "predictions": [
+        "Thookam Varudhuu",
+        "Thookam Varudhuu",
+        "Thookam Varudhuu",
+        "Thookam Varudhuu"
+      ]
+    }
+  },
+  "detailed_results": [
+    {
+      "file": "dataset\\Amaravathi\\amaravathi_1.wav",
+      "expected": "Amaravathi",
+      "predicted": "Amaravathi",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Amaravathi\\amaravathi_2.wav",
+      "expected": "Amaravathi",
+      "predicted": "Amaravathi",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Amaravathi\\amaravathi_3.wav",
+      "expected": "Amaravathi",
+      "predicted": "Amaravathi",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Amaravathi\\amaravathi_4.wav",
+      "expected": "Amaravathi",
+      "predicted": "Amaravathi",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Amma Phone Vandhuruuukuu\\amma-phone-vandhuruuukuu_1.wav",
+      "expected": "Amma Phone Vandhuruuukuu",
+      "predicted": "Amma Phone Vandhuruuukuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Amma Phone Vandhuruuukuu\\amma-phone-vandhuruuukuu_2.wav",
+      "expected": "Amma Phone Vandhuruuukuu",
+      "predicted": "Matthara Thaangah",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Amma Phone Vandhuruuukuu\\amma-phone-vandhuruuukuu_3.wav",
+      "expected": "Amma Phone Vandhuruuukuu",
+      "predicted": "Amma Phone Vandhuruuukuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Amma Phone Vandhuruuukuu\\amma-phone-vandhuruuukuu_4.wav",
+      "expected": "Amma Phone Vandhuruuukuu",
+      "predicted": "Amma Phone Vandhuruuukuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Amma va koopdungah\\amma-va-koopdungah_1.wav",
+      "expected": "Amma va koopdungah",
+      "predicted": "Amaravathi",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Amma va koopdungah\\amma-va-koopdungah_2.wav",
+      "expected": "Amma va koopdungah",
+      "predicted": "Bathroom Varudhu",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Amma va koopdungah\\amma-va-koopdungah_3.wav",
+      "expected": "Amma va koopdungah",
+      "predicted": "Matthara Thaangah",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Bathroom Varudhu\\bathroom-varudhu_1.wav",
+      "expected": "Bathroom Varudhu",
+      "predicted": "Bathroom Varudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Bathroom Varudhu\\bathroom-varudhu_2.wav",
+      "expected": "Bathroom Varudhu",
+      "predicted": "Bathroom Varudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Bathroom Varudhu\\bathroom-varudhu_3.wav",
+      "expected": "Bathroom Varudhu",
+      "predicted": "Bathroom Varudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Bathroom Varudhu\\bathroom-varudhu_4.wav",
+      "expected": "Bathroom Varudhu",
+      "predicted": "Thookam Varudhuu",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Bathroom Varudhu\\bathroom-varudhu_5.wav",
+      "expected": "Bathroom Varudhu",
+      "predicted": "Bathroom Varudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Computer la okkaravaingah\\computer-la-okkara-vaingahhh_1.wav",
+      "expected": "Computer la okkaravaingah",
+      "predicted": "Computer la okkaravaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Computer la okkaravaingah\\computer-la-okkara-vaingahhh_2.wav",
+      "expected": "Computer la okkaravaingah",
+      "predicted": "Computer la okkaravaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Computer la okkaravaingah\\computer-la-okkara-vaingahhh_3.wav",
+      "expected": "Computer la okkaravaingah",
+      "predicted": "Computer la okkaravaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Computer la okkaravaingah\\computer-la-okkara-vaingahhh_4.wav",
+      "expected": "Computer la okkaravaingah",
+      "predicted": "Computer la okkaravaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Computer la okkaravaingah\\computer-la-okkara-vaingahhh_5.wav",
+      "expected": "Computer la okkaravaingah",
+      "predicted": "Computer la okkaravaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Hearing Aid Pottuvidungah\\hearing-aid-pottuvidungahhh_1.wav",
+      "expected": "Hearing Aid Pottuvidungah",
+      "predicted": "Hearing Aid Pottuvidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Hearing Aid Pottuvidungah\\hearing-aid-pottuvidungahhh_2.wav",
+      "expected": "Hearing Aid Pottuvidungah",
+      "predicted": "Hearing Aid Pottuvidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Hearing Aid Pottuvidungah\\hearing-aid-pottuvidungahhh_3.wav",
+      "expected": "Hearing Aid Pottuvidungah",
+      "predicted": "Hearing Aid Pottuvidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Hearing Aid Pottuvidungah\\hearing-aid-pottuvidungahhh_4.wav",
+      "expected": "Hearing Aid Pottuvidungah",
+      "predicted": "PowerWheel Chair la Veloya poghanu",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Hearing Aid Pottuvidungah\\hearing-aid-pottuvidungahhh_5.wav",
+      "expected": "Hearing Aid Pottuvidungah",
+      "predicted": "Hearing Aid Pottuvidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai ku Spint Pottu vidungah\\kai-ku-splint-pottuvidungah_1.wav",
+      "expected": "Kai ku Spint Pottu vidungah",
+      "predicted": "Kai ku Spint Pottu vidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai ku Spint Pottu vidungah\\kai-ku-splint-pottuvidungah_2.wav",
+      "expected": "Kai ku Spint Pottu vidungah",
+      "predicted": "Kai ku Spint Pottu vidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai ku Spint Pottu vidungah\\kai-ku-splint-pottuvidungah_3.wav",
+      "expected": "Kai ku Spint Pottu vidungah",
+      "predicted": "Kai ku Spint Pottu vidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai ku Spint Pottu vidungah\\kai-ku-splint-pottuvidungah_4.wav",
+      "expected": "Kai ku Spint Pottu vidungah",
+      "predicted": "Kai ku Spint Pottu vidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai ku Spint Pottu vidungah\\kai-ku-splint-pottuvidungah_5.wav",
+      "expected": "Kai ku Spint Pottu vidungah",
+      "predicted": "Kai ku Spint Pottu vidungah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai valikkudhu\\kai-valikidhuu_1.wav",
+      "expected": "Kai valikkudhu",
+      "predicted": "Kai valikkudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai valikkudhu\\kai-valikidhuu_2.wav",
+      "expected": "Kai valikkudhu",
+      "predicted": "Kai valikkudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai valikkudhu\\kai-valikidhuu_3.wav",
+      "expected": "Kai valikkudhu",
+      "predicted": "Kai valikkudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kai valikkudhu\\kai-valikidhuu_4.wav",
+      "expected": "Kai valikkudhu",
+      "predicted": "Kai valikkudhu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Kannadi Pottu vidungah\\kannadi-pottu-vidungahhh_1.wav",
+      "expected": "Kannadi Pottu vidungah",
+      "predicted": "Amma Phone Vandhuruuukuu",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Kannadi Pottu vidungah\\kannadi-pottu-vidungahhh_2.wav",
+      "expected": "Kannadi Pottu vidungah",
+      "predicted": "Computer la okkaravaingah",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Kannadi Pottu vidungah\\kannadi-pottu-vidungahhh_3.wav",
+      "expected": "Kannadi Pottu vidungah",
+      "predicted": "Computer la okkaravaingah",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Matthara Thaangah\\mattharaa-thaanga_1.wav",
+      "expected": "Matthara Thaangah",
+      "predicted": "Matthara Thaangah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Matthara Thaangah\\mattharaa-thaanga_2.wav",
+      "expected": "Matthara Thaangah",
+      "predicted": "Matthara Thaangah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Matthara Thaangah\\mattharaa-thaanga_3.wav",
+      "expected": "Matthara Thaangah",
+      "predicted": "Matthara Thaangah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Matthara Thaangah\\mattharaa-thaanga_4.wav",
+      "expected": "Matthara Thaangah",
+      "predicted": "Matthara Thaangah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Matthara Thaangah\\mattharaa-thaanga_5.wav",
+      "expected": "Matthara Thaangah",
+      "predicted": "Matthara Thaangah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Pasikkudhu\\pasikidhu_1.wav",
+      "expected": "Pasikkudhu",
+      "predicted": "Thookam Varudhuu",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Pasikkudhu\\pasikidhu_2.wav",
+      "expected": "Pasikkudhu",
+      "predicted": "Thookam Varudhuu",
+      "correct": false
+    },
+    {
+      "file": "dataset\\Pasikkudhu\\pasikidhu_3.wav",
+      "expected": "Pasikkudhu",
+      "predicted": "Thookam Varudhuu",
+      "correct": false
+    },
+    {
+      "file": "dataset\\PowerWheel Chair la Veloya poghanu\\power-wheel-chair-la-veliya-poghanu_1.wav",
+      "expected": "PowerWheel Chair la Veloya poghanu",
+      "predicted": "PowerWheel Chair la Veloya poghanu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\PowerWheel Chair la Veloya poghanu\\power-wheel-chair-la-veliya-poghanu_2.wav",
+      "expected": "PowerWheel Chair la Veloya poghanu",
+      "predicted": "PowerWheel Chair la Veloya poghanu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\PowerWheel Chair la Veloya poghanu\\power-wheel-chair-la-veliya-poghanu_3.wav",
+      "expected": "PowerWheel Chair la Veloya poghanu",
+      "predicted": "PowerWheel Chair la Veloya poghanu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\PowerWheel Chair la Veloya poghanu\\power-wheel-chair-la-veliya-poghanu_4.wav",
+      "expected": "PowerWheel Chair la Veloya poghanu",
+      "predicted": "PowerWheel Chair la Veloya poghanu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\PowerWheel Chair la Veloya poghanu\\power-wheel-chair-la-veliya-poghanu_5.wav",
+      "expected": "PowerWheel Chair la Veloya poghanu",
+      "predicted": "PowerWheel Chair la Veloya poghanu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thanni Venuuu\\thanni-venu_1.wav",
+      "expected": "Thanni Venuuu",
+      "predicted": "Thanni Venuuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thanni Venuuu\\thanni-venu_2.wav",
+      "expected": "Thanni Venuuu",
+      "predicted": "Thanni Venuuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thanni Venuuu\\thanni-venu_3.wav",
+      "expected": "Thanni Venuuu",
+      "predicted": "Thanni Venuuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thanni Venuuu\\thanni-venu_4.wav",
+      "expected": "Thanni Venuuu",
+      "predicted": "Thanni Venuuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thanni Venuuu\\thanni-venu_5.wav",
+      "expected": "Thanni Venuuu",
+      "predicted": "Thanni Venuuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thiruppi Padukka Vaingah\\thirupi-padukka-vaingah_4s8mj8Uz.wav",
+      "expected": "Thiruppi Padukka Vaingah",
+      "predicted": "Thiruppi Padukka Vaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thiruppi Padukka Vaingah\\thirupi-padukka-vaingah_bvSozFxq.wav",
+      "expected": "Thiruppi Padukka Vaingah",
+      "predicted": "Thiruppi Padukka Vaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thiruppi Padukka Vaingah\\thirupi-padukka-vaingah_Eewv0hjt.wav",
+      "expected": "Thiruppi Padukka Vaingah",
+      "predicted": "Thiruppi Padukka Vaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thiruppi Padukka Vaingah\\thirupi-padukka-vaingah_uAFbAbhk.wav",
+      "expected": "Thiruppi Padukka Vaingah",
+      "predicted": "Thiruppi Padukka Vaingah",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thookam Varudhuu\\thookam-varudhuuu_1.wav",
+      "expected": "Thookam Varudhuu",
+      "predicted": "Thookam Varudhuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thookam Varudhuu\\thookam-varudhuuu_2.wav",
+      "expected": "Thookam Varudhuu",
+      "predicted": "Thookam Varudhuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thookam Varudhuu\\thookam-varudhuuu_3.wav",
+      "expected": "Thookam Varudhuu",
+      "predicted": "Thookam Varudhuu",
+      "correct": true
+    },
+    {
+      "file": "dataset\\Thookam Varudhuu\\thookam-varudhuuu_4.wav",
+      "expected": "Thookam Varudhuu",
+      "predicted": "Thookam Varudhuu",
+      "correct": true
+    }
+  ]
+}

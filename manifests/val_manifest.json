@@ -1,0 +1,66 @@
+{
+  "sample_0": {
+    "audio_path": "dataset\\Bathroom Varudhu\\bathroom-varudhu_5.wav",
+    "phrase": "Bathroom Varudhu"
+  },
+  "sample_1": {
+    "audio_path": "dataset\\Amma Phone Vandhuruuukuu\\amma-phone-vandhuruuukuu_2.wav",
+    "phrase": "Amma Phone Vandhuruuukuu"
+  },
+  "sample_2": {
+    "audio_path": "dataset\\Computer la okkaravaingah\\computer-la-okkara-vaingahhh_5.wav",
+    "phrase": "Computer la okkaravaingah"
+  },
+  "sample_3": {
+    "audio_path": "dataset\\Hearing Aid Pottuvidungah\\hearing-aid-pottuvidungahhh_2.wav",
+    "phrase": "Hearing Aid Pottuvidungah"
+  },
+  "sample_4": {
+    "audio_path": "dataset\\Kannadi Pottu vidungah\\kannadi-pottu-vidungahhh_3.wav",
+    "phrase": "Kannadi Pottu vidungah"
+  },
+  "sample_5": {
+    "audio_path": "dataset\\Kai ku Spint Pottu vidungah\\kai-ku-splint-pottuvidungah_4.wav",
+    "phrase": "Kai ku Spint Pottu vidungah"
+  },
+  "sample_6": {
+    "audio_path": "dataset\\Matthara Thaangah\\mattharaa-thaanga_2.wav",
+    "phrase": "Matthara Thaangah"
+  },
+  "sample_7": {
+    "audio_path": "dataset\\Thanni Venuuu\\thanni-venu_1.wav",
+    "phrase": "Thanni Venuuu"
+  },
+  "sample_8": {
+    "audio_path": "dataset\\Thiruppi Padukka Vaingah\\thirupi-padukka-vaingah_Eewv0hjt.wav",
+    "phrase": "Thiruppi Padukka Vaingah"
+  },
+  "sample_9": {
+    "audio_path": "dataset\\Amma va koopdungah\\amma-va-koopdungah_3.wav",
+    "phrase": "Amma va koopdungah"
+  },
+  "sample_10": {
+    "audio_path": "dataset\\Pasikkudhu\\pasikidhu_2.wav",
+    "phrase": "Pasikkudhu"
+  },
+  "sample_11": {
+    "audio_path": "dataset\\Thanni Venuuu\\thanni-venu_3.wav",
+    "phrase": "Thanni Venuuu"
+  },
+  "sample_12": {
+    "audio_path": "dataset\\Thookam Varudhuu\\thookam-varudhuuu_3.wav",
+    "phrase": "Thookam Varudhuu"
+  },
+  "sample_13": {
+    "audio_path": "dataset\\PowerWheel Chair la Veloya poghanu\\power-wheel-chair-la-veliya-poghanu_3.wav",
+    "phrase": "PowerWheel Chair la Veloya poghanu"
+  },
+  "sample_14": {
+    "audio_path": "dataset\\Amaravathi\\amaravathi_1.wav",
+    "phrase": "Amaravathi"
+  },
+  "sample_15": {
+    "audio_path": "dataset\\Kai valikkudhu\\kai-valikidhuu_4.wav",
+    "phrase": "Kai valikkudhu"
+  }
+}

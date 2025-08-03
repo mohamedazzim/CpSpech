@@ -1,0 +1,14 @@
+torch
+torchaudio
+transformers==4.41.2
+librosa==0.10.2
+soundfile==0.12.1
+#numpy==1.26.4
+#scipy==1.15.3
+#scikit-learn==1.7.1
+PyYAML==6.0.2
+pyaudio==0.2.14
+pygame==2.5.2
+pyttsx3==2.90
+onnx==1.16.0
+onnxruntime==1.18.0
